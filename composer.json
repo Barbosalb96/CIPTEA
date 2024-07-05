@@ -1,0 +1,19 @@
+{
+    "name": "lucas/ciptea",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "barbosalb96",
+            "email": "barbosalucaslbs96@gmail.com"
+        }
+    ],
+    "require": {
+        "larapack/dd": "^1.1",
+        "illuminate/database": "^11.13",
+        "nikic/fast-route": "^1.3"
+    }
+}
